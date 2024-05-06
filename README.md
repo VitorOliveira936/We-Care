@@ -14,6 +14,7 @@ Esse projeto foi realizado em duas etapas em forma de desafios. Na <strong>prime
 <br />
 
 <img src="https://github.com/VitorOliveira936/projeto-1-html-css/blob/main/Assets/We-Care-pc.png?raw=true" width="700px" />
+<img src="https://github.com/VitorOliveira936/projeto-1-html-css/blob/main/Assets/We-Care-Cel.png?raw=true" width="200px" />
 <br>
 
 <h3> Conclusão </h3>
